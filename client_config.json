@@ -1,7 +1,9 @@
-
 {
   "version_code": 36,
   "version_name": "0.0.36",
+  "data_version": "data-1.0.0.4",
   "url_launcher": "https://github.com/zeuskakarottodask/apks/releases/download/v0.0.36/MCRPLauncher.apk",
-  "url_cache_files": "https://raw.githubusercontent.com/zeuskakarottodask/Caches/main/files.json"
+  "data_archive_url": "https://github.com/zeuskakarottodask/Caches/releases/download/data-1.0.0.4/Cachezin4.zip",
+  "data_archive_size_bytes": 1700000000,
+  "data_archive_unpacked_bytes": 3200000000
 }
